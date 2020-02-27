@@ -20,3 +20,6 @@ $python exploit.py
 
 
 ~~~your Deface File.~~(eg. deface.html)
+
+
+https://naynaingoo.blogspot.com
