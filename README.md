@@ -1,8 +1,9 @@
 # Mass-Deface
-Upload Vuln
 
 
-#Install
+
+
+Install
 
 $apt update && apt upgrade -y
 
@@ -15,3 +16,7 @@ $git clone https://github.com/2n16tbhg/Mass-Deface.git
 $cd Mass-Deface
 
 $python exploit.py
+
+
+
+~~~your Deface File.~~(eg. deface.html)
